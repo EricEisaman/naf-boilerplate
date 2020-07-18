@@ -1,7 +1,7 @@
 ![](https://cdn.glitch.com/ed7da4c8-80b7-416d-97d0-1364f3f8f5c4%2Fdiy.jpg?v=1595095114195)
 
 #  NAF Boilerplate
-__
+___
 
 ### What y'all have to do to run it locally ...
 
@@ -11,7 +11,7 @@ First clone this bad boy from GitHub
 
 Move into the naf-boilerplate directory ...
 
-```cd naf-boilerplatee```
+```cd naf-boilerplate```
 
 Create a .env wit y'all ADMIN_KEY ...
 
@@ -20,6 +20,11 @@ Create a .env wit y'all ADMIN_KEY ...
 Create an empty JSON object in .data directory for y'all database ...
 
 ```echo '{}' > .data/db.json```
+
+
+Install da dependencies ...
+
+```npm install```
 
 Start the puppy ...
 
