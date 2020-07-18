@@ -11,7 +11,7 @@ First clone this bad boy from GitHub
 
 Move into the naf-boilerplate directory ...
 
-```cd naf-boilerplatee```
+```cd naf-boilerplate```
 
 Create a .env wit y'all ADMIN_KEY ...
 
